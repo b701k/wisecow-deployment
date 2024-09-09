@@ -220,10 +220,3 @@ for ip, count in most_common_ips:
 This Python script analyzes a web server log file (e.g., Nginx or Apache) and provides a report of the number of 404 errors, the most requested pages, and the IP addresses with the most requests.
 
 ---
-
-### Submission Guidelines
-- **Ensure that all your files (Dockerfile, Kubernetes manifests, CI/CD pipeline config, scripts) are well-commented.**
-- **Make sure to test everything thoroughly before submission.**
-- **Push all your code and configuration to your public GitHub repository as specified.**
-
-If you need more help or further customization, feel free to ask!
