@@ -1,7 +1,5 @@
 # wisecow-deployment
 
-To provide you with a set of files ready to upload to GitHub, I will guide you on how to structure your project and include all the necessary files for **Problem 1** and **Problem 2**. 
-
 ### **Problem 1: Containerization and Deployment of Wisecow Application on Kubernetes**
 
 You will need the following files in your repository:
