@@ -1,5 +1,7 @@
 # wisecow-deployment
 
-Problem Statement 1: Containerization and Deployment of Wisecow Application on Kubernetes
-#Step 1: Dockerization
-#Create a Dockerfile:
+git init
+git add .
+git commit -m "Initial commit for Wisecow deployment and script solutions"
+git remote add origin https://github.com/your-username/repository-name.git
+git push -u origin main
